@@ -1,0 +1,27 @@
+Bootstrsp class
+===================
+.container
+     max-with: 1170px
+
+.container-fluid
+    max-with 100%-30px
+
+.row
+=======
+
+Breaking point(column)
+======================
+min with             max-with
+--------------------------------
+
+.col-lg(laptop/Desktop)
+1200px  >=..........
+
+.col-md
+992px         to           1199px
+
+.col-sm(tablet)
+768px       to    991px
+
+.col-xs(Mobile)
+360px      to    767px
